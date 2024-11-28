@@ -42,7 +42,7 @@
 
 nav{
     width: 100%;
-    position: fixed;
+    position: relative;
     backdrop-filter: blur(10px);
     background-image: linear-gradient(rgba(34, 9, 133, 0.2),rgba(11, 8, 24, 0.3));
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 15%);
